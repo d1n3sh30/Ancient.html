@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <body>
+        <title>
+            Ancient Cuisines
+        </title>
+        <h1 style="color: rgb(0, 0, 0);">
+            Ancient Authentic Cuisines of India
+            <hr>
+        </h1>
+
+        <Body background="fd1.jpeg">
+
+            <body style="background-color:rgb(20, 240, 56);">
+                <table border="10">
+                    <thead>
+                        <tr>
+                            <th>
+                                Explore your Cuisines
+                            </th>
+                        </tr>
+                    </thead>
+                </table>
+                <form>
+                    <br>
+                    <input type="text" value="Enter The Cuisine">
+                    <label for="Enter the Cuisine"></label>
+                    <br>
+
+                    <input type="submit" value="submit">
+                </form>
+                <br>
+                <thead>
+                    <tr>
+                        <td>
+                            Post your recepies
+                        </td>
+                    </tr>
+                </thead>
+                </table>
+                <form>
+                    <input type="submit" value="Post here">
+                </form>
+                <br>
+                <table border="7">
+                    <thead>
+                        <tr>
+                            <td>
+                                For any queries:
+                            </td>
+                        </tr>
+                    </thead>
+                </table>
+                <form>
+                    <input type="submit" value="Write">
+                </form>
+                <br>
+                <table border="7">
+                    <thead>
+                        <tr>
+                            <td>
+                                Login/Sign Up:
+                            </td>
+                        </tr>
+                    </thead>
+                </table>
+                <form>
+                    <input type="submit" value="Enter">
+                </form>
+            </body>
+</head>
+
+</html>
